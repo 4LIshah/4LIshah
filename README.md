@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 AI Enthusiast & Developer <br>💻 Junior Data Scientist @ BCG <br>🐍 Learning Python for AI | Strong in C++ & DSA<br>🤖 AI Automation & Chatbots | IBM Watson X & Voiceflow<br>📈 Social Media Growth | 110K+ followers & 60M+ reach<br>🔥 Passionate about AI, Automation & Data Science
+🎓 AI Enthusiast & Developer <br>💻 Junior Data Scientist @ BCG <br>🐍 Learning Python for AI | Strong in C++ & DSA<br>🤖 AI Automation & Chatbots | IBM Watson X & Voiceflow<br>📈 Social Media Growth | 200K+ followers & 100M+ reach<br>🔥 Passionate about AI, Automation & Data Science
 
 
 ## 🌐 Socials:
